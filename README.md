@@ -9,7 +9,7 @@ A simple shell implemented in C++ that executes system commands, manages foregro
 | 1 | Input parsing and tokenization |
 | 2 | Basic command execution (`execvp`) |
 | 3 | Foreground & background process handling (`&`) |
-| 4 | Piping (`|`) and redirection (`<`, `>`, `>>`) |
+| 4 | Piping (`\|`) and redirection (`<`, `>`, `>>`) |
 | 5 | Job control (`jobs`, `fg`, `bg`) and signal handling |
 
 ## 🧰 Requirements
